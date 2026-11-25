@@ -50,4 +50,4 @@ A QR-based food ordering system designed to provide a convenient and accessible 
 
 Open to collaboration, learning opportunities, and projects that challenge me to grow as a developer.
 
-Email: salvebenrobert1w@gmail.com
+Email: robertben.salve@gmail.com
