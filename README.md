@@ -1,14 +1,14 @@
-# 👋 Hi, I'm a Full-Stack Web Developer
+# Hi, I'm a Full-Stack Web Developer
 
 Building practical, user-friendly web applications through clean code, problem-solving, and continuous learning.
 
-## 🧑‍💻 About Me
+## About Me
 
 I'm an IT developer interested in full-stack web development, backend systems, and database management. I enjoy turning ideas into functional applications and exploring technologies that help solve real-world problems.
 
 Currently focused on improving my development skills through hands-on projects and continuous learning.
 
-## 🚀 Featured Project
+## Featured Project
 
 ### Silent Voice Food Hub
 A QR-based food ordering system designed to provide a convenient and accessible dining experience.
@@ -19,7 +19,7 @@ A QR-based food ordering system designed to provide a convenient and accessible 
 - Integrated MongoDB for database management.
 - Deployed the frontend and backend using Netlify and Render.
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 **Languages & Frontend**
 - HTML
@@ -39,13 +39,15 @@ A QR-based food ordering system designed to provide a convenient and accessible 
 - Netlify
 - Render
 
-## 🎯 Current Goals
+## Current Goals
 
 - Strengthen my full-stack development skills.
 - Build more real-world web applications.
 - Explore new technologies and development tools.
 - Continue learning through personal and collaborative projects.
 
-## 📫 Get in Touch
+## Get in Touch
 
 Open to collaboration, learning opportunities, and projects that challenge me to grow as a developer.
+
+Email: salvebenrobert1w@gmail.com
