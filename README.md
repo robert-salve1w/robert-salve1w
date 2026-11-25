@@ -1,45 +1,51 @@
-beniii
+# 👋 Hi, I'm a Full-Stack Web Developer
 
-Full-Stack Web Developer focused on building functional, user-friendly web applications and practical software solutions.
+Building practical, user-friendly web applications through clean code, problem-solving, and continuous learning.
 
-About Me
+## 🧑‍💻 About Me
 
-I'm an IT developer passionate about web development and creating systems that solve real-world problems. I have experience building full-stack applications, managing databases, implementing authentication, and deploying web projects.
+I'm an IT developer interested in full-stack web development, backend systems, and database management. I enjoy turning ideas into functional applications and exploring technologies that help solve real-world problems.
 
-Current Focus:
+Currently focused on improving my development skills through hands-on projects and continuous learning.
 
-Developing web applications using JavaScript and Node.js
+## 🚀 Featured Project
 
-Improving backend development and database management skills
+### Silent Voice Food Hub
+A QR-based food ordering system designed to provide a convenient and accessible dining experience.
 
-Exploring new technologies and building personal projects
+- Developed customer, staff, and admin interfaces.
+- Implemented Google Authentication using Firebase.
+- Built REST API services using Node.js and Express.js.
+- Integrated MongoDB for database management.
+- Deployed the frontend and backend using Netlify and Render.
 
-Technical Stack
+## 🛠️ Technical Skills
 
-Languages: JavaScript • HTML • CSS
+**Languages & Frontend**
+- HTML
+- CSS
+- JavaScript
 
-Backend: Node.js • Express.js
+**Backend**
+- Node.js
+- Express.js
 
-Database: MongoDB
+**Database & Authentication**
+- MongoDB
+- Firebase Authentication
 
-Tools & Platforms: Git • GitHub • Firebase • Netlify • Render
+**Tools & Platforms**
+- Git & GitHub
+- Netlify
+- Render
 
-Projects
+## 🎯 Current Goals
 
-Silent Voice Food Hub
+- Strengthen my full-stack development skills.
+- Build more real-world web applications.
+- Explore new technologies and development tools.
+- Continue learning through personal and collaborative projects.
 
-Developed a QR-based food ordering system.
+## 📫 Get in Touch
 
-Implemented customer, staff, and admin interfaces.
-
-Integrated Google Authentication using Firebase.
-
-Built backend services and database functionality using Node.js, Express.js, and MongoDB.
-
-Deployed the application using Netlify and Render.
-
-Contact
-
-I'm open to learning opportunities, collaborations, and projects that help me grow as a developer.
-
-Email: salvebenrobert1w@gmail.com
+Open to collaboration, learning opportunities, and projects that challenge me to grow as a developer.
